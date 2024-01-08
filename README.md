@@ -43,6 +43,8 @@ Cache & Session driver in the .env.example file has been configured to use Redis
 
 Just download the zip file and extract it to your project folder.
 
+You can also press 'use this template' in the top right of the repository screen.
+
 Run the following commands to install dependencies.
 
 ```bash
